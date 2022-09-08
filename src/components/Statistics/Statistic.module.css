@@ -1,0 +1,19 @@
+.statsSection {
+  margin-bottom: 60px;
+  background-color: antiquewhite;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.statList {
+  list-style: none;
+  display: flex;
+  color: #ffffff;
+}
+
+.statsName {
+  text-align: center;
+}
+
+.statsItem {
+  padding: 20px;
+  border: 1px solid rgba(196, 196, 196, 0.523);
+}
